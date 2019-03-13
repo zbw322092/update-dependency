@@ -9,7 +9,7 @@
     "art-lib-react": "^0.0.28",
     "art-lib-utils": "^0.0.3",
     "art-server-mock": "^0.0.11",
-    "art-webpack": "^0.0.37"
+    "art-webpack": "^0.0.38"
   },
   "devDependencies": {
     "husky": "^1.3.1"
