@@ -1238,7 +1238,7 @@ art-server-mock@^0.0.11:
     typedi "^0.8.0"
     url-join "^4.0.0"
 
-art-webpack@^0.0.29:
+art-webpack@^0.0.39:
   version "0.0.26"
   resolved "https://registry.yarnpkg.com/art-webpack/-/art-webpack-0.0.26.tgz#848dedccf4e39815579b37ec4ef5c251d4e3fdb9"
   dependencies:
