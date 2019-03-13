@@ -1,0 +1,5 @@
+{
+  "hooks": {
+    "post-merge": "./check-dependency-update.js"
+  }
+}
