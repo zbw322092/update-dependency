@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 const childProcessExec = require('child_process').exec;
 const util = require('util');
 const path = require('path');

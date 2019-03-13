@@ -1,5 +1,5 @@
 {
   "hooks": {
-    "post-merge": "./check-dependency-update.js"
+    "post-merge": "node ./check-dependency-update.js"
   }
 }
